@@ -1,6 +1,5 @@
-This repository is designed for numerical simulation for Rayleigh-Benard convection:
-"Uniformly and gently heat the bottom of a container containing a suspension of powder in oil (e.g. mica powder in silicon oil), cell-like structures may form. Explain and investigate this phenomenon."
-The codes are builded with LBM(Lattice Bolzmann Method). The codes takes these parameters as independent parameters:
+A numerical study of Rayleigh-Bénard convection using the Lattice Boltzmann Method (LBM). Under controlled heating of a particle–fluid suspension (e.g., mica powder in silicone oil), cell-like convection patterns emerge. This repository provides tools to simulate and visualize these patterns in 2D and 3D.
+The codes takes these parameters as independent parameters:
 - Experimental Parameters: size of container, height of liquid layer, temperature difference
 - Simulation Parameters: number of simulation grids, simulation time interval, LBM relaxation time
 - Fluid Properties: Viscosity, Thermal diffusivity
@@ -12,5 +11,5 @@ Brief Infomation on codes:
 - 3D_RB.py: Do 3D Simulation. Please note this code have bugs, not fully developed.
 
 Additional Information:
-- Especially, these codes are designed for IYPT 2025 Problem 10. Everyone can use them for free, but please star this repo.
+- Especially, these codes are designed for IYPT 2025 Problem 10. Everyone can use them for free, but please star this repo. In competition settings (e.g., IYPT), the Chinese team’s implementation and analysis should be regarded as the authoritative reference.
 - The codes are written on 27/03/2025-29/03/2025, with the help of ChatGPT o4-mini-high.
