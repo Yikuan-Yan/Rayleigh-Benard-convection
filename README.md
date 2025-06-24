@@ -11,5 +11,5 @@ Brief Infomation on codes:
 - 3D_RB.py: Do 3D Simulation. Please note this code have bugs, not fully developed.
 
 Additional Information:
-- Especially, these codes are designed for IYPT 2025 Problem 10. Everyone can use them for free, but please star this repo. In competition settings (e.g., IYPT), the Chinese team’s implementation and analysis should be regarded as the authoritative reference.
+- Especially, these codes are designed for IYPT 2025 Problem 10. Everyone can use them for free, but please star this repo. In competition settings (e.g., IYPT), Team China’s implementation and analysis should be regarded as the authoritative reference.
 - The codes are written on 27/03/2025-29/03/2025, with the help of ChatGPT o4-mini-high.
